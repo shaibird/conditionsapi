@@ -1,0 +1,66 @@
+[
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 1,
+        "fields": {
+            "condition": "raining",
+            "isGood": false
+        }
+    },
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 2,
+        "fields": {
+            "condition": "humid",
+            "isGood": null
+        }
+    },
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 3,
+        "fields": {
+            "condition": "cloudy",
+            "isGood": null
+        }
+    },
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 4,
+        "fields": {
+            "condition": "cold",
+            "isGood": true
+        }
+    },
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 5,
+        "fields": {
+            "condition": "warm",
+            "isGood": true
+        }
+    },
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 6,
+        "fields": {
+            "condition": "hot",
+            "isGood": false
+        }
+    },
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 7,
+        "fields": {
+            "condition": "freezing",
+            "isGood": true
+        }
+    },
+    {
+        "model": "conditionsapi.OutsideConditions",
+        "pk": 7,
+        "fields": {
+            "condition": "snowing",
+            "isGood": null
+        }
+    }
+]

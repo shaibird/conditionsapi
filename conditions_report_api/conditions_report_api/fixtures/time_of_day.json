@@ -1,0 +1,72 @@
+[
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 1,
+        "fields": {
+            "TimeOfDay": "Early morning"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 4,
+        "fields": {
+            "TimeOfDay": "Mid morning"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 2,
+        "fields": {
+            "TimeOfDay": "Late morning"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 3,
+        "fields": {
+            "TimeOfDay": "Noon"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 4,
+        "fields": {
+            "TimeOfDay": "Early afternoon"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 5,
+        "fields": {
+            "TimeOfDay": "Mid afternoon"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 4,
+        "fields": {
+            "TimeOfDay": "Late afternoon"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 4,
+        "fields": {
+            "TimeOfDay": "Early evening"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 4,
+        "fields": {
+            "TimeOfDay": "Late evening"
+        }
+    },
+    {
+        "model": "conditionsapi.TimeOfDay",
+        "pk": 4,
+        "fields": {
+            "TimeOfDay": "Night"
+        }
+    }
+]

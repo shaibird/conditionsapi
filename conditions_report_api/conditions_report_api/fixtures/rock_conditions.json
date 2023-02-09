@@ -1,0 +1,42 @@
+[
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 1,
+        "fields": {
+            "condition": "wet",
+            "isGood": false
+        }
+    },
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 2,
+        "fields": {
+            "condition": "manky",
+            "isGood": false
+        }
+    },
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 3,
+        "fields": {
+            "condition": "sweaty",
+            "isGood": null
+        }
+    },
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 4,
+        "fields": {
+            "condition": "dry",
+            "isGood": true
+        }
+    },
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 5,
+        "fields": {
+            "condition": "sticky",
+            "isGood": true
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 1,
+        "fields": {
+            "condition": "raining",
+            "isGood": false
+        }
+    },
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 2,
+        "fields": {
+            "condition": "humid",
+            "isGood": null
+        }
+    },
+    {
+        "model": "conditionsapi.RockConditions",
+        "pk": 3,
+        "fields": {
+            "condition": "cloudy",
+            "isGood": null
+        }
+    }
+]
